@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <extension version="3.x" type="plugin" group="search" method="upgrade">
-    <name>plg_search_joomshopping</name>
+    <name>plg_search_searchshopforjoomshopping</name>
 	<author>Kian William Nowrouzian</author>
 	<creationDate>April 2016</creationDate>
 	<copyright>Copyright (C) 2016 - 2040</copyright>
@@ -10,19 +10,19 @@
 	<version>1.0.0</version>
 	<description>PLG_SEARCH_JOOMSHOOPING_XML_DESCRIPTION</description>
 	<files>
-		<filename plugin="joomshopping">joomshopping.php</filename>
+		<filename plugin="joomshopping">searchshopforjoomshopping.php</filename>
 	</files>
 	<languages>
-		<language tag="en-GB">en-GB.plg_search_joomshopping.ini</language>
-		<language tag="en-GB">en-GB.plg_search_joomshopping.sys.ini</language>
+		<language tag="en-GB">en-GB.plg_search_searchshopforjoomshopping.ini</language>
+		<language tag="en-GB">en-GB.plg_search_searchshopforjoomshopping.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
 			<fieldset name="basic">
 				<field name="search_limit" type="text"
 					default="50"
-					description="PLG_SEARCH_JOOMSHOPPING_FIELD_SEARCHLIMIT_DESC"
-					label="PLG_SEARCH_JOOMSHOPPING_FIELD_SEARCHLIMIT_LABEL"
+					description="PLG_SEARCH_SEARCHSHOPFORJOOMSHOPPING_FIELD_SEARCHLIMIT_DESC"
+					label="PLG_SEARCH_SEARCHSHOPFORJOOMSHOPPING_FIELD_SEARCHLIMIT_LABEL"
 					size="5"
 				/>
 			</fieldset>
