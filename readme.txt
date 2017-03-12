@@ -1,4 +1,4 @@
-Searchshopforjoomshopping version 1.0.0  is a free software which is developed by
+GetItemsForJshopping version 1.0.0  is a free software which is developed by
 Kian William Nowrouzian, it is written clearly, too clear 
 to add any comments excepting those needed for GPL,
 The license is GNU/GPLv3
