@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <extension version="3.x" type="plugin" group="search" method="upgrade">
-    <name>plg_search_searchshopforjoomshopping</name>
+    <name>plg_search_getitemsforjshopping</name>
 	<author>Kian William Nowrouzian</author>
 	<creationDate>April 2016</creationDate>
 	<copyright>Copyright (C) 2016 - 2040</copyright>
@@ -10,11 +10,11 @@
 	<version>1.0.0</version>
 	<description>PLG_SEARCH_JOOMSHOOPING_XML_DESCRIPTION</description>
 	<files>
-		<filename plugin="joomshopping">searchshopforjoomshopping.php</filename>
+		<filename plugin="getitemsforjshopping">getitemsforjshopping.php</filename>
 	</files>
 	<languages>
-		<language tag="en-GB">en-GB.plg_search_searchshopforjoomshopping.ini</language>
-		<language tag="en-GB">en-GB.plg_search_searchshopforjoomshopping.sys.ini</language>
+		<language tag="en-GB">en-GB.plg_search_getitemsforjshopping.ini</language>
+		<language tag="en-GB">en-GB.plg_search_getitemsforjshopping.sys.ini</language>
 	</languages>
 	<config>
 		<fields name="params">
