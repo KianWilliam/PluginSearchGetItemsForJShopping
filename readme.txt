@@ -6,8 +6,8 @@ It is written for joomla 3.x,For those who are using Component Joomshopping,
 download from : www.joomshopping.com, employing this plugin along with it shall
 enable them to be able to use search module or component to find related  items. 
 you may download the plugin at:
-http://www.myextenstions.lord121.ir/2016-04-18-09-10-42/jssearchplg.html
+http://www.extensions.lord121.ir/myplugins/searchitems.html
 also in case of any question email me at:
 mezmer121@gmail.com
-or go to http://www.myextenstions.lord121.ir/support.html and send me a message.
+or go to http://www.extensions.lord121.ir/support.html and send me a message.
 long live science.
